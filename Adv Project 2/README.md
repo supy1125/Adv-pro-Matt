@@ -8,7 +8,7 @@ Concept: It's a fitness-assisted device that users wear on their body and enter 
 
 "https://player.vimeo.com/video/918155859?badge=0&autopause=0&player_id=0&app_id=58479"
 
-#Project Picture
+# Project Picture
 
 ![Project 2 pic](https://github.com/supy1125/Adv-pro-Matt/assets/158603144/86fec053-5d52-4e48-ba5a-e6d8959c14a5)
 
