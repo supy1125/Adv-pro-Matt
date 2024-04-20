@@ -1,4 +1,4 @@
-![Project 2 pic](https://github.com/supy1125/Adv-pro-Matt/assets/158603144/1e95889f-d391-487c-8804-e274dce799b6)# Adv Project 2
+# Adv Project 2
 
 Fitness Aids
 
